@@ -1,0 +1,23 @@
+{
+  "name": "yugioh-engine",
+  "version": "1.0.0",
+  "description": "Yu-Gi-Oh! engine",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyllianGautier/yugioh-engine.git"
+  },
+  "keywords": [
+    "yugioh",
+    "engine"
+  ],
+  "author": "Kyllian Gautier",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KyllianGautier/yugioh-engine/issues"
+  },
+  "homepage": "https://github.com/KyllianGautier/yugioh-engine#readme"
+}
